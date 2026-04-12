@@ -1,16 +1,37 @@
-## Hi! I'm a person somewhere who is doing something (either coding, staring into the middle of nowhere or actually doing something).
+# Hi there, I'm John!
 
-<!--
-**jhli123/jhli123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
 
-Here are some ideas to get you started:
+I'm a software developer with a passion for building impactful applications. I love working with both front-end and back-end technologies, and I'm always eager to learn more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+- **Languages:** JavaScript, Python, Java
+- **Frontend:** React, Vue.js, Bootstrap
+- **Backend:** Node.js, Express, Django
+- **Databases:** MongoDB, PostgreSQL
+
+## 🌱 I’m currently learning
+
+- Advanced TypeScript
+- Cloud Computing with AWS
+
+## 💬 Ask me about
+
+- Web Development
+- Open Source Contributions
+- Tech Education
+
+## 📫 How to reach me
+
+- **Email:** john@example.com
+- **LinkedIn:** [John Doe](https://www.linkedin.com/in/johndoe)
+- **GitHub:** [jhli123](https://github.com/jhli123)
+
+## 📈 GitHub Stats
+
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhli123&show_icons=true&theme=radical) 
+
+## ⚡ Fun fact
+
+I love hiking and exploring nature in my free time!
