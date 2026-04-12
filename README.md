@@ -1,4 +1,4 @@
-## Hi! I'm a person somewhere who is doing something.
+## Hi! I'm a person somewhere who is doing something (either coding, staring into the middle of nowhere or actually doing something).
 
 <!--
 **jhli123/jhli123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
